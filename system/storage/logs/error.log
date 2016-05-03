@@ -1,0 +1,20 @@
+2016-04-24 10:13:30 - PHP Notice:  Undefined index: attribute in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-04-24 10:13:30 - PHP Warning:  Invalid argument supplied for foreach() in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-04-24 10:14:20 - PHP Notice:  Undefined index: attribute in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-04-24 10:14:20 - PHP Warning:  Invalid argument supplied for foreach() in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-04-24 10:14:54 - PHP Notice:  Undefined index: attribute in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-04-24 10:14:54 - PHP Warning:  Invalid argument supplied for foreach() in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-04-26 18:31:28 - PHP Notice:  Undefined index: attribute in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-04-26 18:31:28 - PHP Warning:  Invalid argument supplied for foreach() in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-04-26 18:31:28 - PHP Notice:  Undefined index: attribute in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-04-26 18:31:28 - PHP Warning:  Invalid argument supplied for foreach() in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-04-26 18:33:16 - PHP Notice:  Undefined index: attribute in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-04-26 18:33:16 - PHP Warning:  Invalid argument supplied for foreach() in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-04-26 18:33:16 - PHP Notice:  Undefined index: attribute in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-04-26 18:33:16 - PHP Warning:  Invalid argument supplied for foreach() in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-04-29 11:09:37 - PHP Notice:  Undefined index: approval in /home/mdvd/mdvd.com.ua/www/catalog/model/account/customer.php on line 16
+2016-04-29 11:09:37 - PHP Notice:  Undefined index: approval in /home/mdvd/mdvd.com.ua/www/catalog/model/account/customer.php on line 32
+2016-05-02 0:03:31 - PHP Notice:  Undefined index: attribute in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-05-02 0:03:31 - PHP Warning:  Invalid argument supplied for foreach() in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-05-02 0:03:31 - PHP Notice:  Undefined index: attribute in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-05-02 0:03:31 - PHP Warning:  Invalid argument supplied for foreach() in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
