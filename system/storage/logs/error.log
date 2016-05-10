@@ -18,3 +18,2850 @@
 2016-05-02 0:03:31 - PHP Warning:  Invalid argument supplied for foreach() in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
 2016-05-02 0:03:31 - PHP Notice:  Undefined index: attribute in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
 2016-05-02 0:03:31 - PHP Warning:  Invalid argument supplied for foreach() in /home/mdvd/mdvd.com.ua/www/catalog/view/theme/default/template/product/compare.tpl on line 116
+2016-05-03 17:05:02 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:05:02 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:05:02 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:05:02 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:06:12 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:06:12 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:06:12 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:06:12 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:06:22 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:06:22 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:06:22 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:06:22 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:06:25 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:06:25 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:06:25 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-03 17:06:25 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 14:55:32 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 14:55:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 14:55:32 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 14:55:32 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:04:37 - PHP Notice:  Error: Could not load template C:/OpenServer/domains/mdvd/catalog/view/theme/default/template/product/compare.tpl! in C:\OpenServer\domains\mdvd\system\engine\loader.php on line 86
+2016-05-04 15:05:07 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:05:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:05:07 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:05:07 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:05:08 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:05:08 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:05:08 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:05:08 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:06:57 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:06:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:06:57 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:06:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:07:04 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:07:04 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:07:04 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:07:04 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:14:03 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:14:03 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:14:03 - PHP Notice:  Undefined index: attribute in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-04 15:14:03 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\view\theme\default\template\product\compare.tpl on line 116
+2016-05-05 12:19:57 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 203
+2016-05-05 12:19:57 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 203
+2016-05-05 12:19:57 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OpenServer\domains\mdvd\admin\index.php:80) in C:\OpenServer\domains\mdvd\system\library\response.php on line 12
+2016-05-05 12:20:09 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 203
+2016-05-05 12:20:09 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 203
+2016-05-05 12:20:09 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OpenServer\domains\mdvd\admin\index.php:80) in C:\OpenServer\domains\mdvd\system\library\response.php on line 12
+2016-05-05 12:21:33 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 203
+2016-05-05 12:21:33 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 203
+2016-05-05 12:21:33 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OpenServer\domains\mdvd\admin\index.php:80) in C:\OpenServer\domains\mdvd\system\library\response.php on line 12
+2016-05-05 12:22:17 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 203
+2016-05-05 12:22:17 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 203
+2016-05-05 12:22:17 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OpenServer\domains\mdvd\admin\index.php:80) in C:\OpenServer\domains\mdvd\system\library\response.php on line 12
+2016-05-05 12:23:51 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 195
+2016-05-05 12:23:51 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 195
+2016-05-05 12:23:51 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 195
+2016-05-05 12:23:51 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 203
+2016-05-05 12:23:51 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OpenServer\domains\mdvd\admin\index.php:80) in C:\OpenServer\domains\mdvd\system\library\response.php on line 12
+2016-05-05 12:24:44 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 203
+2016-05-05 12:24:44 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 203
+2016-05-05 12:24:44 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OpenServer\domains\mdvd\admin\index.php:80) in C:\OpenServer\domains\mdvd\system\library\response.php on line 12
+2016-05-07 10:35:35 - PHP Warning:  unlink(C:/OpenServer/domains/mdvd/system/storage/cache/cache.language.1462553204) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in C:\OpenServer\domains\mdvd\system\library\cache\file.php on line 17
+2016-05-07 10:35:38 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at C:\OpenServer\domains\mdvd\index.php:98) in C:\OpenServer\domains\mdvd\system\library\session.php on line 21
+2016-05-07 10:35:38 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OpenServer\domains\mdvd\index.php:98) in C:\OpenServer\domains\mdvd\index.php on line 185
+2016-05-07 10:35:39 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OpenServer\domains\mdvd\index.php:98) in C:\OpenServer\domains\mdvd\system\library\currency.php on line 45
+2016-05-09 23:51:05 - PHP Notice:  Undefined variable: active in C:\OpenServer\domains\mdvd\admin\view\template\module\watermark.tpl on line 38
+2016-05-09 23:58:43 - PHP Notice:  Undefined variable: active in C:\OpenServer\domains\mdvd\admin\view\template\module\watermark.tpl on line 38
+2016-05-10 0:02:26 - PHP Warning:  getimagesize(C:/OpenServer/domains/mdvd/image/) [<a href='function.getimagesize'>function.getimagesize</a>]: failed to open stream: No such file or directory in C:\OpenServer\domains\mdvd\admin\controller\module\watermark.php on line 64
+2016-05-10 0:03:31 - PHP Notice:  Undefined variable: active in C:\OpenServer\domains\mdvd\admin\view\template\module\watermark.tpl on line 38
+2016-05-10 0:28:54 - PHP Notice:  Undefined variable: active in C:\OpenServer\domains\mdvd\admin\view\template\module\watermark.tpl on line 38
+2016-05-10 0:30:29 - PHP Notice:  Undefined variable: active in C:\OpenServer\domains\mdvd\admin\view\template\module\watermark.tpl on line 38
+2016-05-10 10:37:56 - PHP Notice:  Undefined variable: active in C:\OpenServer\domains\mdvd\admin\view\template\module\watermark.tpl on line 38
+2016-05-10 12:35:26 - PHP Notice:  Undefined variable: active in C:\OpenServer\domains\mdvd\admin\view\template\module\watermark.tpl on line 38
+2016-05-10 12:45:51 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:51 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:51 - PHP Notice:  Undefined index: product_popup in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:45:51 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:51 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:51 - PHP Notice:  Undefined index: product_thumb in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:45:51 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:51 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:51 - PHP Notice:  Undefined index: product_popup in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:45:51 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:51 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:51 - PHP Notice:  Undefined index: product_popup in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:45:51 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:51 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:51 - PHP Notice:  Undefined index: product_popup in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:45:51 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:51 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:51 - PHP Notice:  Undefined index: product_popup in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:45:51 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:51 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:51 - PHP Notice:  Undefined index: product_popup in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:45:51 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:51 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:51 - PHP Notice:  Undefined index: product_popup in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:45:51 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:51 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:51 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:51 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:51 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:51 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:51 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:51 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:51 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:51 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:51 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:57 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:57 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:57 - PHP Notice:  Undefined index: product_list in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:45:57 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:57 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:57 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:57 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:57 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:57 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:57 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:57 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:45:57 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:45:57 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:45:57 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Undefined index: product_list in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Undefined index: product_list in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Undefined index: product_list in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Undefined index: product_list in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:00 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:00 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:00 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Undefined index: product_list in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Undefined index: product_list in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Undefined index: product_list in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Undefined index: product_list in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Undefined index: product_in_cart in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 407
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 12:46:31 - PHP Notice:  Error: Table 'mdvd_db.mdvdoc_watermark_settings' doesn't exist<br />Error No: 1146<br />
+            SELECT `key`, `value` FROM `mdvdoc_watermark_settings` WHERE 1
+             in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 12:46:31 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 486
+2016-05-10 12:46:31 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\catalog\model\module\watermark\image.watermark.php on line 488
+2016-05-10 16:14:21 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(26)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:14:21 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:14:22 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(26)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:14:22 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:14:27 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(26)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:14:27 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:14:27 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(26)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:14:27 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:14:36 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(59)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:14:36 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:14:37 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(59)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:14:37 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:14:40 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(26)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:14:40 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:14:40 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(26)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:14:40 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:18:40 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(26)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:18:40 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:18:40 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(26)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:18:40 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:18:44 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(26)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:18:44 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:18:44 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(26)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:18:44 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:19:12 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(27)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:19:12 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:19:12 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(27)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:19:12 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:19:15 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(27)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:19:15 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:19:15 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(27)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:19:15 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:19:17 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(26)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:19:17 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:19:18 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(26)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:19:18 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:19:20 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(59)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:19:20 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:19:21 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(59)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:19:21 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:29:12 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(26)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:29:12 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393
+2016-05-10 16:29:12 - PHP Notice:  Error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+				' at line 42<br />Error No: 1064<br />SELECT MIN(`price`) AS `p_min`, MAX(`price`) AS `p_max` FROM( SELECT ( `price_tmp` * ( 1 + IFNULL(`p_tax`, 0) / 100 ) + IFNULL(`f_tax`, 0) ) AS `price` FROM( 
+			SELECT
+				
+			IFNULL( (SELECT `price` FROM `mdvdoc_product_special` AS `ps` WHERE `ps`.`product_id` = `p`.`product_id` AND `ps`.`customer_group_id` = '0' AND ((`ps`.`date_start` = '0000-00-00' OR `ps`.`date_start` < NOW()) AND (`ps`.`date_end` = '0000-00-00' OR `ps`.`date_end` > NOW())) ORDER BY `ps`.`priority` ASC, `ps`.`price` ASC LIMIT 1), IFNULL( (SELECT `price` FROM `mdvdoc_product_discount` AS `pd2` WHERE `pd2`.`product_id` = `p`.`product_id` AND `pd2`.`customer_group_id` = '0' AND `pd2`.`quantity` = '1' AND ((`pd2`.`date_start` = '0000-00-00' OR `pd2`.`date_start` < NOW()) AND (`pd2`.`date_end` = '0000-00-00' OR `pd2`.`date_end` > NOW())) ORDER BY `pd2`.`priority` ASC, `pd2`.`price` ASC LIMIT 1), `p`.`price` ) ) AS `price_tmp`
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'F' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS f_tax
+		,
+			(
+				SELECT
+					`tr2`.`rate`
+				FROM
+					`mdvdoc_tax_rule` AS `tr1`
+				LEFT JOIN
+					`mdvdoc_tax_rate` AS `tr2`
+				ON
+					`tr1`.`tax_rate_id` = `tr2`.`tax_rate_id`
+				INNER JOIN
+					`mdvdoc_tax_rate_to_customer_group` AS `tr2cg`
+				ON
+					`tr2`.`tax_rate_id` = `tr2cg`.`tax_rate_id`
+				LEFT JOIN
+					`mdvdoc_zone_to_geo_zone` AS `z2gz`
+				ON
+					`tr2`.`geo_zone_id` = `z2gz`.`geo_zone_id`
+				WHERE
+					`tr1`.`tax_class_id` = `p`.`tax_class_id` AND
+					`tr2`.`type` = 'P' AND
+					( (
+			`tr1`.`based` = 'store' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'payment' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) OR (
+			`tr1`.`based` = 'shipping' AND 
+			`z2gz`.`country_id` = 220 AND (
+				`z2gz`.`zone_id` = '0' OR `z2gz`.`zone_id` = '3491'
+			)
+		) ) AND
+					`tr2cg`.`customer_group_id` =  LIMIT 1
+			) AS p_tax
+		
+			FROM
+				`mdvdoc_product` AS `p`
+			INNER JOIN
+				`mdvdoc_product_description` AS `pd`
+			ON
+				`pd`.`product_id` = `p`.`product_id` AND `pd`.`language_id` = 1
+			
+				INNER JOIN
+					`mdvdoc_product_to_store` AS `p2s`
+				ON
+					`p2s`.`product_id` = `p`.`product_id` AND `p2s`.`store_id` = 0
+			
+			INNER JOIN
+				`mdvdoc_product_to_category` AS `p2c`
+			ON
+				`p2c`.`product_id` = `p`.`product_id`
+		
+			WHERE
+				`p`.`date_available` <= NOW() AND `p`.`status` = '1' AND `p2c`.`category_id` IN(26)
+			
+		 ) AS `tmp`  ) AS `tmp`  in C:\OpenServer\domains\mdvd\system\library\db\mysqli.php on line 41
+2016-05-10 16:29:12 - PHP Notice:  Trying to get property of non-object in C:\OpenServer\domains\mdvd\catalog\model\module\mega_filter.php on line 1393

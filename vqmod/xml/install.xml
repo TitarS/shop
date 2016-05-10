@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<modification>
+    <name>CTRL+Watermark</name>
+    <version>1.0.15</version>
+    <code>ctrl-watermark</code>
+    <author>John Coin</author>
+    <link>http://ctrl-coin.com/</link>
+
+    <file path="catalog/model/tool/image.php">
+        <operation>
+            <search><![CDATA[
+    public function resize($filename, $width, $height
+            ]]></search>
+            <add position="after"><![CDATA[
+        /* CTRL+Watermark - begin */
+        $this->load->model("tool/ctrl_image");
+        return $this->model_tool_ctrl_image->resize($filename, $width, $height );
+        /* CTRL+Watermark - end */
+            ]]></add>
+        </operation>
+    </file>
+
+    <file path="system/library/image.php">
+        <operation>
+            <search><![CDATA[
+    function watermark
+            ]]></search>
+            <add position="before"><![CDATA[
+        /* CTRL+Watermark - begin */
+        protected function log($message)
+        {
+            file_put_contents(DIR_LOGS . "error.log", date("Y-m-d H:i:s - ") . "CTRL+Watermark: " . $message . "\r\n", FILE_APPEND);
+        }
+        public function _watermark($file,$left,$top,$width,$height,$angle = 0){
+            $watermark = new Image($file);
+            $watermark->resize( $width, $height );
+            if( $angle ) {
+                $rotated = imagerotate($watermark->image, 360-$angle, 0xFFFFFF00);
+                if( !$rotated ) {
+                    $this->log("imagerotate ERROR, skipping angle" );
+                } else {
+                    $watermark->image = $rotated;
+                    imagesavealpha($watermark->image, true); // http://stackoverflow.com/questions/12082472/php-imagerotate-ruins-alpha-on-png
+                    $watermark->info['width'] = imagesx($watermark->image);
+                    $watermark->info['height'] = imagesy($watermark->image);
+                    $left = $left - ( $watermark->info['width'] - $width ) / 2;
+                    $top = $top - ( $watermark->info['height'] - $height ) / 2;
+                    $width = $watermark->info['width'];
+                    $height = $watermark->info['height'];
+                }
+		    }
+            imagealphablending($this->image, true); // http://stackoverflow.com/questions/313070/png-transparency-with-php
+            imagecopy($this->image,
+                $watermark->image,
+                $left, $top, 0, 0, $width, $height);
+        }
+        /* CTRL+Watermark - end */
+            ]]></add>
+        </operation>
+    </file>
+
+</modification>

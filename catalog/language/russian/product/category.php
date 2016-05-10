@@ -22,3 +22,7 @@ $_['text_rating_desc']  = 'По Рейтингу (убыванию)';
 $_['text_model_asc']    = 'По Модели (A - Я)';
 $_['text_model_desc']   = 'По Модели (Я - A)';
 $_['text_limit']        = 'Показывать:';
+
+
+$_['show_full_text']        = 'Показать все';
+$_['hide_full_text']        = 'Скрыть';

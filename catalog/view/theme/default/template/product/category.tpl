@@ -20,9 +20,31 @@
         <?php if ($thumb) { ?>
         <div class="col-sm-2"><img src="<?php echo $thumb; ?>" alt="<?php echo $heading_title; ?>" title="<?php echo $heading_title; ?>" class="img-thumbnail" /></div>
         <?php } ?>
-        <?php if ($description) { ?>
+
+
+
+<!--         <?php if ($description) { ?>
         <div class="col-sm-10"><?php echo $description; ?></div>
-        <?php } ?>
+        <?php } ?> -->
+
+
+<!--          Далі код скрити тексту-->
+          <?php if ($description) { ?>
+          <div class="mdvd_box mdvd_closeFullText">
+            <div class="col-sm-10 mdvd_text"><?php echo $description; ?></div>
+             
+            <div class='mdvd_action'>
+
+                <div class='btn-primery btn mdvd_closeFullText'><?php echo $hide_full_text; ?></div>
+                <div class='btn-primery btn  mdvd_openFullText'><?php echo $show_full_text; ?></div>
+
+            </div>
+         </div>
+           <?php } ?>         
+<!--        Кінець коду скрити текст-->
+
+
+
       </div>
       <hr>
       <?php } ?>
@@ -53,12 +75,20 @@
       <?php } ?>
       <?php } ?>
       <?php if ($products) { ?>
-      <p><a href="<?php echo $compare; ?>" id="compare-total"><?php echo $text_compare; ?></a></p>
+
+
+     <!-- Порівняння <p><a href="<?php //echo $compare; ?>" id="compare-total"><?php //echo $text_compare; ?></a></p>-->
+
+
       <div class="row">
         <div class="col-md-3">
           <div class="btn-group hidden-xs">
-            <button type="button" id="list-view" class="btn btn-default" data-toggle="tooltip" title="<?php echo $button_list; ?>"><i class="fa fa-th-list"></i></button>
-            <button type="button" id="grid-view" class="btn btn-default" data-toggle="tooltip" title="<?php echo $button_grid; ?>"><i class="fa fa-th"></i></button>
+         <!--    <button type="button" id="list-view" class="btn btn-default" data-toggle="tooltip" title="<?php echo $button_list; ?>"><i class="fa fa-th-list"></i></button>
+            <button type="button" id="grid-view" class="btn btn-default" data-toggle="tooltip" title="<?php echo $button_grid; ?>"><i class="fa fa-th"></i></button> -->
+             <button type="button" id="list-view" class="btn btn-default" data-toggle="tooltip"><i class="fa fa-th-list"></i></button>
+            <button type="button" id="grid-view" class="btn btn-default" data-toggle="tooltip"><i class="fa fa-th"></i></button>
+
+
           </div>
         </div>
         <div class="col-md-2 text-right">
@@ -95,22 +125,30 @@
         <?php foreach ($products as $product) { ?>
         <div class="product-layout product-list col-xs-12">
           <div class="product-thumb">
-            <div class="image"><a href="<?php echo $product['href']; ?>"><img src="<?php echo $product['thumb']; ?>" alt="<?php echo $product['name']; ?>" title="<?php echo $product['name']; ?>" class="img-responsive" /></a></div>
+            <div class="image"><a href="<?php echo $product['href']; ?>" class="grow"><img src="<?php echo $product['thumb']; ?>" alt="<?php echo $product['name']; ?>" title="<?php echo $product['name']; ?>" class="img-responsive" /></a></div>
             <div>
               <div class="caption">
+
+
+
                 <h4><a href="<?php echo $product['href']; ?>"><?php echo $product['name']; ?></a></h4>
                 <p><?php echo $product['description']; ?></p>
-                <?php if ($product['rating']) { ?>
-                <div class="rating">
-                  <?php for ($i = 1; $i <= 5; $i++) { ?>
-                  <?php if ($product['rating'] < $i) { ?>
-                  <span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span>
-                  <?php } else { ?>
-                  <span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span>
-                  <?php } ?>
-                  <?php } ?>
-                </div>
-                <?php } ?>
+
+
+
+
+                <div class="rating hideRating"> 
+<?php for ($i = 1; $i <= 5; $i++) { ?> 
+<?php if ($product['rating'] < $i) { ?> 
+<span class="fa fa-stack"><i class="fa fa-star-o fa-stack-2x"></i></span> 
+<?php } else { ?> 
+<span class="fa fa-stack"><i class="fa fa-star fa-stack-2x"></i><i class="fa fa-star-o fa-stack-2x"></i></span> 
+<?php } ?> 
+<?php } ?> 
+</div>
+
+
+      
                 <?php if ($product['price']) { ?>
                 <p class="price">
                   <?php if (!$product['special']) { ?>
@@ -127,7 +165,11 @@
               <div class="button-group">
                 <button type="button" onclick="cart.add('<?php echo $product['product_id']; ?>', '<?php echo $product['minimum']; ?>');"><i class="fa fa-shopping-cart"></i> <span class="hidden-xs hidden-sm hidden-md"><?php echo $button_cart; ?></span></button>
                 <button type="button" data-toggle="tooltip" title="<?php echo $button_wishlist; ?>" onclick="wishlist.add('<?php echo $product['product_id']; ?>');"><i class="fa fa-heart"></i></button>
-                <button type="button" data-toggle="tooltip" title="<?php echo $button_compare; ?>" onclick="compare.add('<?php echo $product['product_id']; ?>');"><i class="fa fa-exchange"></i></button>
+               
+
+               <!-- Порівняння <button type="button" data-toggle="tooltip" title="<?php //echo $button_compare; ?>" onclick="compare.add('<?php //echo $product['product_id']; ?>');"><i class="fa fa-exchange"></i></button>-->
+              
+
               </div>
             </div>
           </div>
@@ -149,3 +191,42 @@
     <?php echo $column_right; ?></div>
 </div>
 <?php echo $footer; ?>
+
+<script> 
+
+$(document).ready(function(){ 
+//$(".rating").hide(); 
+}); 
+
+$( ".product-layout" ).hover(function() { 
+
+$(this).find(".product-thumb").css({ 
+boxShadow:" 0px 0px 10px rgba(16, 16, 16, 0.68)" /* Параметры тени */ 
+}); 
+
+$(this).find(".rating").removeClass("hideRating").addClass("showRating"); 
+
+},function(){ 
+
+$(this).find(".product-thumb").css({ 
+boxShadow:" none"
+}); 
+
+$(this).find(".rating").removeClass("showRating").addClass("hideRating"); 
+
+}); 
+
+</script>
+
+<!--Скріпт до откритие тексту-->
+<script type="text/javascript">
+$(document).ready(function (){
+  $('.mdvd_action .mdvd_openFullText').click(function (){
+    $(this).parents('.mdvd_box').removeClass('mdvd_closeFullText').addClass('mdvd_openFullText');
+  });
+  $('.mdvd_action .mdvd_closeFullText').click(function (){
+    $(this).parents('.mdvd_box').removeClass('mdvd_openFullText').addClass('mdvd_closeFullText');
+  });
+});
+</script>
+<!---->

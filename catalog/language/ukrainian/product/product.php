@@ -13,12 +13,16 @@ $_['text_discount']                           = 'або більше ';
 $_['text_option']                             = 'Доступні опції';
 $_['text_minimum']                            = 'Мінімальна кількість для замовлення цього товару: %s.';
 $_['text_reviews']                            = '%s відгуків';
-$_['text_write']                              = 'Написати відгук';
+
+$_['text_write']                              = '<i class="fa fa-comment-o" aria-hidden="true"></i> Написати відгук';
+
 $_['text_login']                              = 'Будьласка <a href="%s"> авторизуйтесь </a> або <a href="%s"> зареєструйтеся </a> для перегляду';
 $_['text_no_reviews']                         = 'Немає відгуків про цей товар.';
 $_['text_note']                               = '<span class = "text-danger"> Увага: </span> HTML не підтримується!';
 $_['text_success']                            = 'Дякую за ваш відгук. Він був направлений на модерацію.';
-$_['text_related']                            = 'Рекомендовані товари';
+
+$_['text_related']                            = '<i class="fa fa-thumbs-o-up" aria-hidden="true"></i> Рекомендовані товари';
+
 $_['text_tags']                               = 'Теги:';
 $_['text_error']                              = 'Товар не знайдено!';
 $_['text_payment_recurring']                  = 'Платіжні профілі';
@@ -40,9 +44,9 @@ $_['entry_good']                              = 'Добре';
 $_['entry_bad']                               = 'Погано';
 
 // Tabs
-$_['tab_description']                         = 'Опис';
-$_['tab_attribute']                           = 'Характеристики';
-$_['tab_review']                              = 'Відгуки (%s)';
+$_['tab_description']                         = '<i class="fa fa-align-justify" aria-hidden="true"></i> Опис';
+$_['tab_attribute']                           = '<i class="fa fa-cog" aria-hidden="true"></i> Характеристики';
+$_['tab_review']                              = '<i class="fa fa-comment-o" aria-hidden="true"></i> Відгуки (%s)';
 
 // Error
 $_['error_name']                              = 'Ім’я має бути від 3 до 25 символів!';

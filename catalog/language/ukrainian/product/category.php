@@ -22,3 +22,7 @@ $_['text_rating_desc']  = 'За Рейтингом (зменшення)';
 $_['text_model_asc']    = 'За Моделлю (A - Я)';
 $_['text_model_desc']   = 'За Моделлю (Я - A)';
 $_['text_limit']        = 'На сторінці:';
+
+
+$_['show_full_text']        = 'Показати все';
+$_['hide_full_text']        = 'Сховати';

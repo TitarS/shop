@@ -1,0 +1,20 @@
+------------------------------------------------Порівняння-------------------------------------
+\catalog\view\theme\default\template\product\category.tpl
+58, 136
+
+\catalog\view\theme\default\template\product\search.tpl
+72, 147
+
+\catalog\view\theme\default\template\product\manufacturer_info.tpl
+31, 106
+
+\catalog\view\theme\default\template\product\product.tpl
+125, 380
+
+\catalog\view\theme\default\template\product\special.tpl
+20, 95
+\catalog\view\theme\default\template\module\special.tpl
+38
+\catalog\view\theme\default\template\module\featured.tpl
+37
+----------------------------------------------------------------------------------------------

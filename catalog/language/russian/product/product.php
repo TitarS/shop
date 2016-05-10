@@ -13,12 +13,16 @@ $_['text_discount']                           = ' или более ';
 $_['text_option']                             = 'Доступные опции';
 $_['text_minimum']                            = 'Минимальное кол-во для заказа этого товара: %s. ';
 $_['text_reviews']                            = '%s отзывов';
-$_['text_write']                              = 'Написать отзыв';
+
+$_['text_write']                              = '<i class="fa fa-comment-o" aria-hidden="true"></i> Написать отзыв';
+
 $_['text_login']                              = 'Пожалуйста <a href="%s"> авторизуйтесь</a> или <a href="%s"> зарегистрируйтесь</a> для просмотра';
 $_['text_no_reviews']                         = 'Нет отзывов об этом товаре.';
 $_['text_note']                               = '<span class="text-danger">Внимание:</span> HTML не поддерживается! Используйте обычный текст!';
 $_['text_success']                            = 'Спасибо за Ваш отзыв. Он был направлен на модерацию.';
-$_['text_related']                            = 'Рекомендуемые товары';
+
+$_['text_related']                            = '<i class="fa fa-thumbs-o-up" aria-hidden="true"></i> Рекомендуемые товары';
+
 $_['text_tags']                               = 'Теги:';
 $_['text_error']                              = 'Товар не найден!';
 $_['text_payment_recurring']                    = 'Платежные профили';
@@ -40,9 +44,9 @@ $_['entry_good']                              = 'Хорошо';
 $_['entry_bad']                               = 'Плохо';
 
 // Tabs
-$_['tab_description']                         = 'Описание';
-$_['tab_attribute']                           = 'Характеристики';
-$_['tab_review']                              = 'Отзывы (%s)';
+$_['tab_description']                         = '<i class="fa fa-align-justify" aria-hidden="true"></i> Описание';
+$_['tab_attribute']                           = '<i class="fa fa-cog" aria-hidden="true"></i> Характеристики';
+$_['tab_review']                              = '<i class="fa fa-comment-o" aria-hidden="true"></i> Отзывы (%s)';
 
 // Error
 $_['error_name']                              = 'Имя должно быть от 3 до 25 символов!';

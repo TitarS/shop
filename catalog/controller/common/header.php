@@ -107,6 +107,15 @@ class ControllerCommonHeader extends Controller {
 
 		$this->load->model('catalog/product');
 
+
+ 		// code's Vova
+        $this->language->load('module/category_menu');
+
+        $this->load->model('tool/image');
+        
+        // end code
+
+
 		$data['categories'] = array();
 
 		$categories = $this->model_catalog_category->getCategories(0);
@@ -125,7 +134,8 @@ class ControllerCommonHeader extends Controller {
 					);
 
 					$children_data[] = array(
-						'name'  => $child['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter_data) . ')' : ''),
+						//'name'  => $child['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter_data) . ')' : ''),
+						'name'  => $child['name'],
 						'href'  => $this->url->link('product/category', 'path=' . $category['category_id'] . '_' . $child['category_id'])
 					);
 				}
@@ -135,6 +145,7 @@ class ControllerCommonHeader extends Controller {
 					'name'     => $category['name'],
 					'children' => $children_data,
 					'column'   => $category['column'] ? $category['column'] : 1,
+					'image' => $this->model_tool_image->resize($category['image'],  $this->config->get('config_image_category_width'), $this->config->get('config_image_category_height')),
 					'href'     => $this->url->link('product/category', 'path=' . $category['category_id'])
 				);
 			}

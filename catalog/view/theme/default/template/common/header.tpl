@@ -31,6 +31,8 @@
 <script src="catalog/view/javascript/bootstrap/js/bootstrap.min.js" type="text/javascript"></script>
 <link href="catalog/view/javascript/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css" />
 <link href="//fonts.googleapis.com/css?family=Open+Sans:400,400i,300,700" rel="stylesheet" type="text/css" />
+
+<link href='https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300&subset=latin,cyrillic' rel='stylesheet' type='text/css'>
 <link href="catalog/view/theme/default/stylesheet/stylesheet.css" rel="stylesheet">
 
 
@@ -114,9 +116,6 @@
             <div class="container">
                 <div class="row">
                     <div class="col-sm-8 col-sm-offset-2 slider-2-text">
-                      <!--  <h1>We are <span class="violet">Andia</span> a super cool design agency.</h1>
-                  <p>We design beautiful websites, logos and prints. Your project is safe with us.</p>
--->
                     </div>
                 </div>
             </div>
@@ -143,7 +142,7 @@
       <ul class="nav navbar-nav">
         <?php foreach ($categories as $category) { ?>
         <?php if ($category['children']) { ?>
-        <li class="dropdown"><a href="<?php echo $category['href']; ?>" class="dropdown-toggle" data-toggle="dropdown"><?php echo $category['name']; ?></a>
+        <li class="dropdown"><a href="<?php echo $category['href']; ?>" class="dropdown-toggle" data-toggle="dropdown"><img src="<?php echo $category['image']; ?>"><span><?php echo $category['name']; ?></span></a>
           <div class="dropdown-menu">
             <div class="dropdown-inner">
               <?php foreach (array_chunk($category['children'], ceil(count($category['children']) / $category['column'])) as $children) { ?>
@@ -154,7 +153,10 @@
               </ul>
               <?php } ?>
             </div>
-            <a href="<?php echo $category['href']; ?>" class="see-all"><?php echo $text_all; ?> <?php echo $category['name']; ?></a> </div>
+           
+
+            <!-- <a href="<?php //echo $category['href']; ?>" class="see-all"><?php //echo $text_all; ?> <?php //echo $category['name']; ?></a> --></div>
+        
         </li>
         <?php } else { ?>
         <li><a href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a></li>

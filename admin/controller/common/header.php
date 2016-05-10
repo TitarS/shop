@@ -122,6 +122,26 @@ class ControllerCommonHeader extends Controller {
 				'href' => HTTP_CATALOG
 			);
 
+
+
+            
+            /* IMAGES OPTIONS */
+		if (isset($this->request->post['category_images'])) {
+			$data['category_images'] = $this->request->post['category_images'];
+		} elseif (!empty($module_info)) {
+			$data['category_images'] = $module_info['category_images'];
+		} else {
+			$data['category_images'] = array('status'	=> 1,
+											'width'		=> 10,
+											'height'	=> 10
+											);
+		}
+
+
+
+
+
+
 			$this->load->model('setting/store');
 
 			$results = $this->model_setting_store->getStores();
