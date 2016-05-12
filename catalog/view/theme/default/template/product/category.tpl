@@ -15,42 +15,33 @@
     <?php } ?>
     <div id="content" class="<?php echo $class; ?>"><?php echo $content_top; ?>
       <h1><?php echo $heading_title; ?></h1>
-      <?php if ($thumb || $description) { ?>
-      <div class="row">
-        <?php if ($thumb) { ?>
-        <div class="col-sm-2"><img src="<?php echo $thumb; ?>" alt="<?php echo $heading_title; ?>" title="<?php echo $heading_title; ?>" class="img-thumbnail" /></div>
-        <?php } ?>
 
 
-
-<!--         <?php if ($description) { ?>
-        <div class="col-sm-10"><?php echo $description; ?></div>
-        <?php } ?> -->
-
-
-<!--          Далі код скрити тексту-->
-          <?php if ($description) { ?>
-          <div class="mdvd_box mdvd_closeFullText">
-            <div class="col-sm-10 mdvd_text"><?php echo $description; ?></div>
-             
-            <div class='mdvd_action'>
-
-                <div class='btn-primery btn mdvd_closeFullText'><?php echo $hide_full_text; ?></div>
-                <div class='btn-primery btn  mdvd_openFullText'><?php echo $show_full_text; ?></div>
-
+         <?php if ($categories) { ?>
+<!--      <h3><?php echo $text_refine; ?></h3>-->
+        
+            <div class="row" style="opacity: 1; display: block;margin-bottom: 0px;">
+                <?php foreach ($categories as $category) { ?>
+                    <?php if ($category['thumb']) { ?>
+                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+                            <div class="product-thumb transition divCategoryList">
+                                <div class="image"><a href="<?php echo $category['href']; ?>"><img src="<?php echo $category['thumb']; ?>" alt="<?php echo $heading_title; ?>" title="<?php echo $heading_title; ?>" class="img-responsive" /></a></div>
+                                <div class="caption imageCategoryList">
+                                    <h3><a style="text-decoration: none" href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a></h3>
+                                </div> 
+                            </div>
+                        </div>
+                    <?php } ?>
+                <?php } ?>
             </div>
-         </div>
-           <?php } ?>         
-<!--        Кінець коду скрити текст-->
+       <?php } ?>
 
 
 
-      </div>
-      <hr>
-      <?php } ?>
-      <?php if ($categories) { ?>
-      <h3><?php echo $text_refine; ?></h3>
-      <?php if (count($categories) <= 5) { ?>
+<!--       <?php if ($categories) { ?>
+      <h3><?php echo $text_refine; ?></h3> -->
+
+<!--       <?php if (count($categories) <= 5) { ?>
       <div class="row">
         <div class="col-sm-3">
           <ul>
@@ -73,7 +64,9 @@
         <?php } ?>
       </div>
       <?php } ?>
-      <?php } ?>
+      <?php } ?> -->
+
+
       <?php if ($products) { ?>
 
 
@@ -187,8 +180,71 @@
         <div class="pull-right"><a href="<?php echo $continue; ?>" class="btn btn-primary"><?php echo $button_continue; ?></a></div>
       </div>
       <?php } ?>
+
+
+          <?php if ($thumb || $description) { ?>
+      <div class="row">
+        <?php if ($description) { ?>  
+        <hr/>
+        <?php if ($thumb) { ?>
+        <div class="col-sm-2"><img src="<?php echo $thumb; ?>" alt="<?php echo $heading_title; ?>" title="<?php echo $heading_title; ?>" class="img-thumbnail" /></div>
+        <?php } ?>
+
+
+
+<!--         <?php if ($description) { ?>
+        <div class="col-sm-10"><?php //echo $description; ?></div>
+        <?php } ?> -->
+
+
+<!--          Далі код скрити тексту-->
+
+          <div class="mdvd_box mdvd_closeFullText">
+            <div class="col-sm-10 mdvd_text"><?php echo $description; ?></div>
+         </div>
+          
+          
+          
+           <!-- Button trigger modal -->
+            <button class="btn btn-primary btn-lg btn-close-modal-post" data-toggle="modal" data-target="#myModal">
+                    <?php echo $show_full_text; ?>
+            </button>
+
+            <!-- Modal -->
+            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<!--                    <h4 class="modal-title" id="myModalLabel">Название модали</h4>-->
+                  </div>
+                  <div class="modal-body">
+                        <?php if ($thumb) { ?>
+                        <div class="col-sm-2"><img src="<?php echo $thumb; ?>" alt="<?php echo $heading_title; ?>" title="<?php echo $heading_title; ?>" class="img-thumbnail" /></div>
+                        <div><?php echo $description; ?></div>
+                       <?php } ?>
+
+                  </div>
+                  <div class="modal-footer ">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal"><?php echo $close_modal_post; ?></button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          
+          
+          
+           <?php } ?>      
+
+<!--        Кінець коду скрити текст-->
+
+      </div>
+      <?php } ?>
+
       <?php echo $content_bottom; ?></div>
     <?php echo $column_right; ?></div>
+
+
 </div>
 <?php echo $footer; ?>
 
@@ -219,7 +275,7 @@ $(this).find(".rating").removeClass("showRating").addClass("hideRating");
 </script>
 
 <!--Скріпт до откритие тексту-->
-<script type="text/javascript">
+<!--<script type="text/javascript">
 $(document).ready(function (){
   $('.mdvd_action .mdvd_openFullText').click(function (){
     $(this).parents('.mdvd_box').removeClass('mdvd_closeFullText').addClass('mdvd_openFullText');
@@ -228,5 +284,5 @@ $(document).ready(function (){
     $(this).parents('.mdvd_box').removeClass('mdvd_openFullText').addClass('mdvd_closeFullText');
   });
 });
-</script>
+</script>-->
 <!---->

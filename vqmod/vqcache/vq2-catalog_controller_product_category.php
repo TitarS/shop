@@ -148,7 +148,7 @@ class ControllerProductCategory extends Controller {
 			$data['button_grid'] = $this->language->get('button_grid');
 
             $data['show_full_text'] = $this->language->get('show_full_text');
-            $data['hide_full_text'] = $this->language->get('hide_full_text');
+            $data['close_modal_post'] = $this->language->get('close_modal_post');
 
 
 			// Set the last category breadcrumb
@@ -211,11 +211,45 @@ class ControllerProductCategory extends Controller {
 					'filter_sub_category' => true
 				);
 
+	//    Vova code for images in category
+                
+                if ($result['image']) {
+					$image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+				} else {
+					$image = false;
+				}
+                
+                // children data
+                
+            	$children_data = array();
+                
+                $children = $this->model_catalog_category->getCategories($result['category_id']);
+                
+                
+                foreach ($children as $child) {
+					$filter_data = array(
+						'filter_category_id'  => $child['category_id'],
+						'filter_sub_category' => true
+					);
+
+					$children_data[] = array(
+						//'name'  => $child['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter_data) . ')' : ''),
+						'name'  => $child['name'],
+						'href'  => $this->url->link('product/category', 'path=' . $result['category_id'] . '_' . $child['category_id'])
+					);
+				}
+    
+
+
+
 				$data['categories'][] = array(
 					'name' => $result['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter_data) . ')' : ''),
-					'href' => $this->url->link('product/category', 'path=' . $this->request->get['path'] . '_' . $result['category_id'] . $url)
+					'href' => $this->url->link('product/category', 'path=' . $this->request->get['path'] . '_' . $result['category_id'] . $url),
+                    'thumb' => $image,  // Vova code for image in category
+                    'children' => $children_data
 				);
 			}
+//End Vova code
 
 
 				if( isset( $mfUrlBeforeChange ) ) {

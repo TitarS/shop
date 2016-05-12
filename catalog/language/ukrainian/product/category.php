@@ -25,4 +25,4 @@ $_['text_limit']        = 'На сторінці:';
 
 
 $_['show_full_text']        = 'Показати все';
-$_['hide_full_text']        = 'Сховати';
+$_['close_modal_post']        = 'Сховати';

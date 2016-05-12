@@ -25,4 +25,4 @@ $_['text_limit']        = 'Показывать:';
 
 
 $_['show_full_text']        = 'Показать все';
-$_['hide_full_text']        = 'Скрыть';
+$_['close_modal_post']        = 'Скрыть';

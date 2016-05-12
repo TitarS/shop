@@ -1310,3 +1310,26 @@ margin-left: auto;
     display: block;
 }
 /*Кінець*/
+
+/* Категорії в формі картинок*/
+.imageCategoryList {
+    min-height: 50px!important;
+    text-align: center;
+}
+
+.divCategoryList:hover {
+    box-shadow: 0px 0px 10px rgba(16, 16, 16, 0.68);
+
+}
+/**/
+
+/* Модальное окно для стетей*/
+
+.btn-close-modal-post {
+    float: right;
+    margin: 10px;
+    padding: 7.5px 12px;
+}
+
+
+/* Кінець коду*/
