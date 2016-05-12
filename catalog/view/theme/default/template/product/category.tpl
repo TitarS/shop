@@ -17,9 +17,72 @@
       <h1><?php echo $heading_title; ?></h1>
 
 
+<!-- text feature -->
+
+                <?php if ($thumb || $description) { ?>
+      <div class="row">
+        <?php if ($description) { ?>  
+        <hr/>
+        <?php if ($thumb) { ?>
+        <div class="col-sm-2"><img src="<?php echo $thumb; ?>" alt="<?php echo $heading_title; ?>" title="<?php echo $heading_title; ?>" class="img-thumbnail" /></div>
+        <?php } ?>
+
+
+
+<!--         <?php if ($description) { ?>
+        <div class="col-sm-10"><?php //echo $description; ?></div>
+        <?php } ?> -->
+
+
+<!--          Далі код скрити тексту-->
+
+          <div class="mdvd_box mdvd_closeFullText">
+            <div class="col-sm-10 mdvd_text"><?php echo $description; ?></div>
+         </div>
+          
+          
+          
+           <!-- Button trigger modal -->
+            <button class="btn btn-primary btn-lg btn-close-modal-post" data-toggle="modal" data-target="#myModal">
+                    <?php echo $show_full_text; ?>
+            </button>
+
+            <!-- Modal -->
+            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+              <div class="modal-dialog">
+                <div class="modal-content">
+                  <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+<!--                    <h4 class="modal-title" id="myModalLabel">Название модали</h4>-->
+                  </div>
+                  <div class="modal-body">
+                        <?php if ($thumb) { ?>
+                        <div class="col-sm-2"><img src="<?php echo $thumb; ?>" alt="<?php echo $heading_title; ?>" title="<?php echo $heading_title; ?>" class="img-thumbnail" /></div>
+                        <div><?php echo $description; ?></div>
+                       <?php } ?>
+
+                  </div>
+                  <div class="modal-footer ">
+                    <button type="button" class="btn btn-primary" data-dismiss="modal"><?php echo $close_modal_post; ?></button>
+                  </div>
+                </div>
+              </div>
+            </div>
+          
+          
+          
+           <?php } ?>      
+
+<!--        Кінець коду скрити текст-->
+
+      </div>
+      <hr>      
+      <?php } ?>
+
+<!-- end text feature -->
+
          <?php if ($categories) { ?>
-<!--      <h3><?php echo $text_refine; ?></h3>-->
-        
+<!--      <h3><?php echo $text_refine; ?></h3>-->        
             <div class="row" style="opacity: 1; display: block;margin-bottom: 0px;">
                 <?php foreach ($categories as $category) { ?>
                     <?php if ($category['thumb']) { ?>
@@ -182,67 +245,8 @@
       <?php } ?>
 
 
-          <?php if ($thumb || $description) { ?>
-      <div class="row">
-        <?php if ($description) { ?>  
-        <hr/>
-        <?php if ($thumb) { ?>
-        <div class="col-sm-2"><img src="<?php echo $thumb; ?>" alt="<?php echo $heading_title; ?>" title="<?php echo $heading_title; ?>" class="img-thumbnail" /></div>
-        <?php } ?>
-
-
-
-<!--         <?php if ($description) { ?>
-        <div class="col-sm-10"><?php //echo $description; ?></div>
-        <?php } ?> -->
-
-
-<!--          Далі код скрити тексту-->
-
-          <div class="mdvd_box mdvd_closeFullText">
-            <div class="col-sm-10 mdvd_text"><?php echo $description; ?></div>
-         </div>
-          
-          
-          
-           <!-- Button trigger modal -->
-            <button class="btn btn-primary btn-lg btn-close-modal-post" data-toggle="modal" data-target="#myModal">
-                    <?php echo $show_full_text; ?>
-            </button>
-
-            <!-- Modal -->
-            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-              <div class="modal-dialog">
-                <div class="modal-content">
-                  <div class="modal-header">
-                    <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-<!--                    <h4 class="modal-title" id="myModalLabel">Название модали</h4>-->
-                  </div>
-                  <div class="modal-body">
-                        <?php if ($thumb) { ?>
-                        <div class="col-sm-2"><img src="<?php echo $thumb; ?>" alt="<?php echo $heading_title; ?>" title="<?php echo $heading_title; ?>" class="img-thumbnail" /></div>
-                        <div><?php echo $description; ?></div>
-                       <?php } ?>
-
-                  </div>
-                  <div class="modal-footer ">
-                    <button type="button" class="btn btn-primary" data-dismiss="modal"><?php echo $close_modal_post; ?></button>
-                  </div>
-                </div>
-              </div>
-            </div>
-          
-          
-          
-           <?php } ?>      
-
-<!--        Кінець коду скрити текст-->
-
-      </div>
-      <?php } ?>
-
       <?php echo $content_bottom; ?></div>
-    <?php echo $column_right; ?></div>
+      <?php echo $column_right; ?></div>
 
 
 </div>

@@ -497,3 +497,4 @@ catalog\controller\module\account.php
 catalog\language\english\module\account.php
 catalog\language\russian\module\account.php
 catalog\view\theme\default\template\module\account.tpl
+catalog\language\ukrainian\module\account.php
