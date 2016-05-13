@@ -9389,3 +9389,12 @@
 2016-05-12 11:57:38 - PHP Notice:  Undefined variable: close_modal_post in C:\OpenServer\domains\mdvd\vqmod\vqcache\vq2-catalog_view_theme_default_template_product_category.tpl on line 229
 2016-05-12 11:57:53 - PHP Notice:  Undefined variable: close_modal_post in C:\OpenServer\domains\mdvd\vqmod\vqcache\vq2-catalog_view_theme_default_template_product_category.tpl on line 229
 2016-05-12 11:58:10 - PHP Notice:  Undefined variable: close_modal_post in C:\OpenServer\domains\mdvd\vqmod\vqcache\vq2-catalog_view_theme_default_template_product_category.tpl on line 229
+2016-05-12 16:43:17 - PHP Warning:  ftp_login() [<a href='function.ftp-login'>function.ftp-login</a>]: Login incorrect. in C:\OpenServer\domains\mdvd\vqmod\vqcache\vq2-admin_controller_extension_installer.php on line 295
+2016-05-12 17:40:49 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 203
+2016-05-12 17:40:49 - PHP Notice:  Undefined index: customer_group_id in C:\OpenServer\domains\mdvd\admin\model\catalog\product.php on line 203
+2016-05-12 17:40:49 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OpenServer\domains\mdvd\admin\index.php:84) in C:\OpenServer\domains\mdvd\system\library\response.php on line 12
+2016-05-13 10:03:15 - PHP Warning:  unlink(C:/OpenServer/domains/mdvd/system/storage/cache/cache.country.1463072350) [<a href='function.unlink'>function.unlink</a>]: No such file or directory in C:\OpenServer\domains\mdvd\system\library\cache\file.php on line 17
+2016-05-13 10:03:19 - PHP Warning:  session_start() [<a href='function.session-start'>function.session-start</a>]: Cannot send session cache limiter - headers already sent (output started at C:\OpenServer\domains\mdvd\index.php:102) in C:\OpenServer\domains\mdvd\system\library\session.php on line 21
+2016-05-13 10:03:19 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OpenServer\domains\mdvd\index.php:102) in C:\OpenServer\domains\mdvd\index.php on line 189
+2016-05-13 10:03:19 - PHP Warning:  Cannot modify header information - headers already sent by (output started at C:\OpenServer\domains\mdvd\index.php:102) in C:\OpenServer\domains\mdvd\system\library\currency.php on line 45
+2016-05-13 12:13:03 - PHP Warning:  Invalid argument supplied for foreach() in C:\OpenServer\domains\mdvd\admin\controller\module\product_tab.php on line 164

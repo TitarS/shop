@@ -10,6 +10,6 @@ $_['tab_special'] = 'Акции';
 // Text
 $_['button_wishlist'] = 'Добавить в список желаний';
 $_['button_compare'] = 'Cравнить';
-$_['button_cart'] = 'Добавить в корзину';
+$_['button_cart'] = 'В корзину';
 $_['text_tax'] = 'Без налога:';
 ?>

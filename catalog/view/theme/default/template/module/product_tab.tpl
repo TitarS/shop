@@ -212,4 +212,4 @@
 <script type="text/javascript">
 $('#tabs-<?php echo $module; ?> a').tabs();
 </script> 
-<div class="clear"></div>
+<div class="clearfix"></div>

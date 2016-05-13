@@ -58,8 +58,9 @@
                   <div class="modal-body">
                         <?php if ($thumb) { ?>
                         <div class="col-sm-2"><img src="<?php echo $thumb; ?>" alt="<?php echo $heading_title; ?>" title="<?php echo $heading_title; ?>" class="img-thumbnail" /></div>
+                        <?php } ?>
                         <div><?php echo $description; ?></div>
-                       <?php } ?>
+                       
 
                   </div>
                   <div class="modal-footer ">

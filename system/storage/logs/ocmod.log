@@ -291,3 +291,378 @@ REGEX: ~(require|include)(_once)?\(([^)]+)~
 LINE: 25
 LINE: 31
 ----------------------------------------------------------------
+2016-05-12 16:56:25 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+2016-05-12 16:57:08 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: CKEditor 4.4.6 + KCFinder 3.12
+FILE: admin/controller/catalog/product.php
+CODE: public function add() {
+LINE: 15
+CODE: public function edit() {
+LINE: 72
+FILE: admin/view/template/catalog/product_form.tpl
+CODE: <div id="content">
+LINE: 2
+CODE: $('#input-description<?php echo $language['language_id']; ?>').summernote({height: 300});
+NOT FOUND!
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+2016-05-12 16:57:52 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: CKEditor 4.4.6 + KCFinder 3.12
+FILE: admin/controller/catalog/product.php
+CODE: public function add() {
+LINE: 15
+CODE: public function edit() {
+LINE: 72
+FILE: admin/view/template/catalog/product_form.tpl
+CODE: <div id="content">
+LINE: 2
+CODE: $('#input-description<?php echo $language['language_id']; ?>').summernote({height: 300});
+NOT FOUND!
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+2016-05-12 17:00:41 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: CKEditor 4.4.6 + KCFinder 3.12
+FILE: admin/controller/catalog/product.php
+CODE: public function add() {
+LINE: 15
+CODE: public function edit() {
+LINE: 72
+FILE: admin/view/template/catalog/product_form.tpl
+CODE: <div id="content">
+LINE: 2
+CODE: $('#input-description<?php echo $language['language_id']; ?>').summernote({height: 300});
+NOT FOUND!
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+2016-05-12 17:00:43 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: CKEditor 4.4.6 + KCFinder 3.12
+FILE: admin/controller/catalog/product.php
+CODE: public function add() {
+LINE: 15
+CODE: public function edit() {
+LINE: 72
+FILE: admin/view/template/catalog/product_form.tpl
+CODE: <div id="content">
+LINE: 2
+CODE: $('#input-description<?php echo $language['language_id']; ?>').summernote({height: 300});
+NOT FOUND!
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+2016-05-12 17:00:50 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: CKEditor 4.4.6 + KCFinder 3.12
+FILE: admin/controller/catalog/product.php
+CODE: public function add() {
+LINE: 15
+CODE: public function edit() {
+LINE: 72
+FILE: admin/view/template/catalog/product_form.tpl
+CODE: <div id="content">
+LINE: 2
+CODE: $('#input-description<?php echo $language['language_id']; ?>').summernote({height: 300});
+NOT FOUND!
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+2016-05-12 17:02:06 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+2016-05-12 17:02:08 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+2016-05-12 17:02:08 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+2016-05-13 10:57:05 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 11:23:07 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 11:23:08 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
