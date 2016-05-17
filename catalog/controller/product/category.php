@@ -172,10 +172,12 @@ class ControllerProductCategory extends Controller {
 					'filter_sub_category' => true
 				);
 
-	//    Vova code for images in category
+
+//    Vova code for images in category
                 
                 if ($result['image']) {
-					$image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+                	$image = $this->model_tool_image->resize($result['image'], 800, 200);
+					//$image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
 				} else {
 					$image = false;
 				}
@@ -187,30 +189,37 @@ class ControllerProductCategory extends Controller {
                 $children = $this->model_catalog_category->getCategories($result['category_id']);
                 
                 
+                
                 foreach ($children as $child) {
+                    
 					$filter_data = array(
 						'filter_category_id'  => $child['category_id'],
 						'filter_sub_category' => true
 					);
 
+                    $product_total = $this->model_catalog_product->getTotalProducts($filter_data);
+
 					$children_data[] = array(
-						//'name'  => $child['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter_data) . ')' : ''),
-						'name'  => $child['name'],
-						'href'  => $this->url->link('product/category', 'path=' . $result['category_id'] . '_' . $child['category_id'])
-					);
+						'name'  => $child['name'] . ($this->config->get('config_product_count') ? ' (' . $product_total . ')' : ''),
+						'href'  => $this->url->link('product/category', 'path=' . $result['category_id'] . '_' . $child['category_id']),
+						//*** Добавляем к каждой категории первого уровня массив с подкатегориями второго уровня						
+                        'desc' => $child['description']
+                    );						
+ 
+                
 				}
     
-
-
-
 				$data['categories'][] = array(
 					'name' => $result['name'] . ($this->config->get('config_product_count') ? ' (' . $this->model_catalog_product->getTotalProducts($filter_data) . ')' : ''),
 					'href' => $this->url->link('product/category', 'path=' . $this->request->get['path'] . '_' . $result['category_id'] . $url),
                     'thumb' => $image,  // Vova code for image in category
-                    'children' => $children_data
+                    'children' => $children_data,
+                     'desc' => $result['description']
 				);
 			}
 //End Vova code
+
+
 
 			$data['products'] = array();
 

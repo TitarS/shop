@@ -1333,3 +1333,158 @@ margin-left: auto;
 
 
 /* Кінець коду*/
+
+
+
+
+/* Кнопка усі товари(кухні ітд)*/
+
+.mdvd-all-products {
+    text-align: center;
+}
+
+/* Кінець коду кнопка усі кухні*/
+
+/* Категорії для стилів*/
+
+.long-image-wall {
+    min-height: 250px;
+    height: auto; /* Высота блока */
+    width: 100%; /* Ширина блока */
+    overflow: auto; /* Добавляем полосы прокрутки */
+    padding-left: 15px; /* Отступ от текста слева */
+    background-size: cover;
+    margin-bottom: 5px;
+    border-left: 1px solid #2093BF;
+    border-top: 1px solid #2093BF;
+    border-bottom: 1px solid #2093BF;
+    border-right: 1px dotted #2093BF;
+    border-radius: 25px;
+    color: #1f90bb;    
+    z-index: -1;
+    background-size: cover;
+}
+
+.btn-style-wall {
+    text-decoration: none;
+    float: right;
+    margin: 5px;
+
+}
+
+.long-image-wall:hover {
+    
+}
+
+.show-short-desc-style {
+    float: none;
+    margin-top: 30px;
+}
+
+
+.mdvd-style-name {
+ float: left;
+    }
+
+
+.pull-center {
+    margin: 0 auto;
+}
+
+.mdvd-category-box { /* общий блок */
+  position: relative;
+  display: table;
+  margin: 0 auto;
+  border: 0px solid #456;
+  line-height: 0;
+  color: rgb(223,223,223);
+  cursor: pointer;
+    border-radius: 5px;
+    width: 100%;
+    height: auto;
+    text-align: center;
+    margin-bottom: 15px;
+}
+
+.mdvd-category-box .figcaption {display: none;}
+.mdvd-category-box:hover .figcaption { /* прозрачная область */
+  display: block;
+  position: absolute;
+  bottom: 0%;
+  left: 0px;
+  right: 0px;
+  padding: 5px 10px;
+  background: rgba(255, 255, 255, 0.8);
+  font-size: 100%;
+  line-height: 1.3em;
+  height: 50%;
+    overflow: hidden;
+    z-index: 99;
+    color: #1f90bb;
+cursor: default;
+
+}
+
+.mdvd-category-box:hover .figcaption strong { /* заголовок */
+  display: block;
+  line-height: 2em;
+  font-size: 110%;
+
+}
+
+.product-thumb .image-style { 
+overflow:hidden; 
+} 
+
+.product-thumb .image-style a {
+	display: block;
+}
+
+.product-thumb .image-style img {
+	margin-left: auto;
+	margin-right: auto;
+}
+.product-grid .product-thumb .image-style {
+	float: none;
+}
+
+.carousel-caption {
+    top: -5%;
+    left:0px;
+    float:center;
+    padding-top: 0px;
+    padding-bottom: 50%;
+    
+}
+
+.carousel-caption h1 a {
+    color:#1f90bb;
+}.carousel-caption h1 {
+            background: rgba(255, 255, 255, 0.71);
+}
+/* Кінець категорій в стилях*/
+
+
+/*Модальні вікна опису стилів 15.05.2016 15.00*/
+.box-modal {
+	position: relative;
+	width: 100%;
+    min-width: 50%;
+	padding: 16px;
+	background: #fff;
+	color: #3c3c3c;
+	font: 14px/18px Arial, "Helvetica CY", "Nimbus Sans L", sans-serif;
+	box-shadow: 0 0 0 6px rgba(153, 153, 153, .3);
+	border-radius: 6px;
+    margin: 0 auto;
+}
+
+@media (max-width: 767px){
+	.box-modal{
+	   width: 100%;
+    }
+}
+
+.box-modal_close { position: absolute; right: 10px; top: 6px; font-size: 11px; line-height: 15px; color: #999; cursor: pointer; }
+.box-modal_close:hover { color: #666; }
+/*Кінець модальних вікон*/

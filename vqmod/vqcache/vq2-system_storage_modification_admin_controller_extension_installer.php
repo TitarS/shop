@@ -225,11 +225,11 @@ class ControllerExtensionInstaller extends Controller {
 			$json['error'] = $this->language->get('error_permission');
 		}
 
-		if (VERSION == '2.0.0.0') {
-		    $directory = DIR_DOWNLOAD  . str_replace(array('../', '..\\', '..'), '', $this->request->post['path']) . '/upload/';
-		} else {
-		    $directory = DIR_UPLOAD  . str_replace(array('../', '..\\', '..'), '', $this->request->post['path']) . '/upload/';
-		}
+        if (VERSION == '2.0.0.0') {
+            $directory = DIR_DOWNLOAD  . str_replace(array('../', '..\\', '..'), '', $this->request->post['path']) . '/upload/';
+        } else {
+            $directory = DIR_UPLOAD  . str_replace(array('../', '..\\', '..'), '', $this->request->post['path']) . '/upload/';
+        }
 
 		if (!is_dir($directory)) {
 			$json['error'] = $this->language->get('error_directory');
@@ -257,22 +257,11 @@ class ControllerExtensionInstaller extends Controller {
 
 			foreach ($files as $file) {
 				// Upload everything in the upload directory
-				$destination = substr($file, strlen($directory));
-
-				// Update from newer OpenCart versions:
-				if (substr($destination, 0, 5) == 'admin') {
-					$destination = DIR_APPLICATION . substr($destination, 5);
-				} else if (substr($destination, 0, 7) == 'catalog') {
-					$destination = DIR_CATALOG . substr($destination, 7);
-				} else if (substr($destination, 0, 5) == 'image') {
-					$destination = DIR_IMAGE . substr($destination, 5);
-				} else if (substr($destination, 0, 6) == 'system') {
-					$destination = DIR_SYSTEM . substr($destination, 6);
-				} else {
-					$destination = $root.$destination;
-				}
+				$destination = $root.substr($file, strlen($directory));
 
 				if (is_dir($file)) {
+					$list = glob(rtrim($destination, '/').'/*');
+
 					if (!file_exists($destination)) {
 						if (!mkdir($destination)) {
 							$json['error'] = sprintf($this->language->get('error_ftp_directory'), $destination);

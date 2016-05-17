@@ -666,3 +666,1929 @@ FILE: catalog/view/theme/default/template/common/footer.tpl
 CODE: </body></html>
 LINE: 156
 ----------------------------------------------------------------
+2016-05-13 14:37:11 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 14:54:46 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Discount Percent
+FILE: catalog/controller/module/bestseller.php
+CODE: $data['products'][] = array(
+LINE: 54
+FILE: catalog/controller/module/featured.php
+CODE: $data['products'][] = array(
+LINE: 61
+FILE: catalog/controller/module/latest.php
+CODE: $data['products'][] = array(
+LINE: 61
+FILE: catalog/controller/module/special.php
+CODE: $data['products'][] = array(
+LINE: 61
+FILE: catalog/controller/product/category.php
+CODE: $data['products'][] = array(
+LINE: 261
+FILE: catalog/controller/product/manufacturer.php
+CODE: $data['products'][] = array(
+LINE: 241
+FILE: catalog/controller/product/search.php
+CODE: $data['products'][] = array(
+LINE: 247
+FILE: catalog/controller/product/special.php
+CODE: $data['products'][] = array(
+LINE: 132
+FILE: catalog/controller/product/product.php
+CODE: if ((float)$product_info['special']) {
+LINE: 323
+CODE: $data['products'][] = array(
+LINE: 449
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: <?php if ($thumb) { ?>
+LINE: 26
+CODE: $reviews; ?></a> / <a href=""
+LINE: 326
+CODE: <div class="caption">
+LINE: 352
+FILE: catalog/view/theme/default/template/module/bestseller.tpl
+CODE: <div class="caption">
+LINE: 7
+FILE: catalog/view/theme/default/template/module/featured.tpl
+CODE: <div class="caption">
+LINE: 7
+FILE: catalog/view/theme/default/template/module/latest.tpl
+CODE: <div class="caption">
+LINE: 7
+FILE: catalog/view/theme/default/template/module/special.tpl
+CODE: <div class="caption">
+LINE: 7
+FILE: catalog/view/theme/default/template/module/category.tpl
+CODE: <div class="caption">
+NOT FOUND!
+FILE: catalog/controller/product/compare.php
+CODE: $data['products'][$product_id] = array(
+LINE: 113
+FILE: catalog/view/theme/default/template/product/compare.tpl
+CODE: <?php echo $products[$product['product_id']]['special']; ?>
+NOT FOUND!
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: </head>
+LINE: 55
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 14:57:20 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Discount Percent
+FILE: catalog/controller/module/bestseller.php
+CODE: $data['products'][] = array(
+LINE: 54
+FILE: catalog/controller/module/featured.php
+CODE: $data['products'][] = array(
+LINE: 61
+FILE: catalog/controller/module/latest.php
+CODE: $data['products'][] = array(
+LINE: 61
+FILE: catalog/controller/module/special.php
+CODE: $data['products'][] = array(
+LINE: 61
+FILE: catalog/controller/product/category.php
+CODE: $data['products'][] = array(
+LINE: 261
+FILE: catalog/controller/product/manufacturer.php
+CODE: $data['products'][] = array(
+LINE: 241
+FILE: catalog/controller/product/search.php
+CODE: $data['products'][] = array(
+LINE: 247
+FILE: catalog/controller/product/special.php
+CODE: $data['products'][] = array(
+LINE: 132
+FILE: catalog/controller/product/product.php
+CODE: if ((float)$product_info['special']) {
+LINE: 323
+CODE: $data['products'][] = array(
+LINE: 449
+FILE: catalog/view/theme/default/template/product/product.tpl
+CODE: <?php if ($thumb) { ?>
+LINE: 26
+CODE: $reviews; ?></a> / <a href=""
+LINE: 326
+CODE: <div class="caption">
+LINE: 352
+FILE: catalog/view/theme/default/template/module/bestseller.tpl
+CODE: <div class="caption">
+LINE: 7
+FILE: catalog/view/theme/default/template/module/featured.tpl
+CODE: <div class="caption">
+LINE: 7
+FILE: catalog/view/theme/default/template/module/latest.tpl
+CODE: <div class="caption">
+LINE: 7
+FILE: catalog/view/theme/default/template/module/special.tpl
+CODE: <div class="caption">
+LINE: 7
+FILE: catalog/view/theme/default/template/module/category.tpl
+CODE: <div class="caption">
+NOT FOUND!
+FILE: catalog/controller/product/compare.php
+CODE: $data['products'][$product_id] = array(
+LINE: 113
+FILE: catalog/view/theme/default/template/product/compare.tpl
+CODE: <?php echo $products[$product['product_id']]['special']; ?>
+NOT FOUND!
+FILE: catalog/view/theme/default/template/common/header.tpl
+CODE: </head>
+LINE: 55
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 14:59:07 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 16:06:00 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: Simon Filters for OC2 - sf3 - 3.0.0 Build 0043
+FILE: catalog/model/catalog/product.php
+CODE: getProducts
+LINE: 79
+LINE: 239
+CODE: getTotalProducts
+LINE: 462
+LINE: 582
+CODE: $query = $this->db->query($sql);
+LINE: 227
+LINE: 314
+LINE: 600
+CODE: public function getProducts(
+LINE: 76
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 17:54:10 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 17:54:12 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 17:54:15 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 18:00:39 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 18:03:45 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 18:22:50 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 18:22:51 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 18:22:53 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 18:37:53 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 18:37:54 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 23:59:21 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: Simon Filters for OC2 - sf3 - 3.0.0 Build 0043
+CODE: getProducts
+LINE: 79
+LINE: 283
+CODE: getTotalProducts
+LINE: 506
+LINE: 670
+CODE: $query = $this->db->query($sql);
+LINE: 271
+LINE: 358
+LINE: 688
+CODE: public function getProducts(
+LINE: 76
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-13 23:59:23 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: Simon Filters for OC2 - sf3 - 3.0.0 Build 0043
+CODE: getProducts
+LINE: 79
+LINE: 283
+CODE: getTotalProducts
+LINE: 506
+LINE: 670
+CODE: $query = $this->db->query($sql);
+LINE: 271
+LINE: 358
+LINE: 688
+CODE: public function getProducts(
+LINE: 76
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-14 0:02:56 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: Simon Filters for OC2 - sf3 - 3.0.0 Build 0043
+CODE: getProducts
+LINE: 79
+LINE: 283
+CODE: getTotalProducts
+LINE: 506
+LINE: 670
+CODE: $query = $this->db->query($sql);
+LINE: 271
+LINE: 358
+LINE: 688
+CODE: public function getProducts(
+LINE: 76
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-14 0:11:02 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: TO TOP
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 156
+----------------------------------------------------------------
+2016-05-14 12:00:18 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+2016-05-14 12:04:37 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: Opencart Back To Top
+FILE: catalog/controller/common/footer.php
+CODE: $this->load->language('common/footer');
+LINE: 10
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 104
+----------------------------------------------------------------
+2016-05-14 13:52:24 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: Modification watermark module for opencart
+FILE: catalog/controller/module/featured.php
+CODE: $image = $this->model_tool_image->resize($product_info['image'], $setting['width'], $setting['height']);
+LINE: 31
+FILE: catalog/controller/module/bestseller.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 24
+FILE: catalog/controller/module/ebay_listing.php
+CODE: $image = $this->model_openbay_ebay_product->resize($product['pictures'][0], $this->config->get('ebay_listing_width'), $this->config->get('ebay_listing_height'));
+LINE: 23
+FILE: catalog/controller/module/carousel.php
+CODE: 'image' => $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height'])
+LINE: 20
+FILE: catalog/controller/module/latest.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 31
+FILE: catalog/controller/module/special.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 31
+FILE: catalog/controller/module/slideshow.php
+CODE: 'image' => $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height'])
+LINE: 20
+FILE: catalog/controller/module/banner.php
+CODE: 'image' => $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height'])
+LINE: 21
+FILE: catalog/controller/feed/google_sitemap.php
+CODE: $output .= '<image:loc>' . $this->model_tool_image->resize($product['image'], $this->config->get('config_image_popup_width'), $this->config->get('config_image_popup_height')) . '</image:loc>';
+LINE: 19
+FILE: catalog/controller/feed/google_base.php
+CODE: $output .= '<g:image_link>' . $this->model_tool_image->resize($product['image'], 500, 500) . '</g:image_link>';
+LINE: 40
+FILE: catalog/controller/product/product.php
+CODE: $data['popup'] = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_popup_width'), $this->config->get('config_image_popup_height'));
+LINE: 294
+CODE: $data['thumb'] = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_thumb_width'), $this->config->get('config_image_thumb_height'));
+LINE: 300
+CODE: 'popup' => $this->model_tool_image->resize($result['image'], $this->config->get('config_image_popup_width'), $this->config->get('config_image_popup_height')),
+LINE: 311
+CODE: 'thumb' => $this->model_tool_image->resize($result['image'], $this->config->get('config_image_additional_width'), $this->config->get('config_image_additional_height'))
+LINE: 312
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_related_width'), $this->config->get('config_image_related_height'));
+LINE: 418
+FILE: catalog/controller/product/special.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 102
+FILE: catalog/controller/product/manufacturer.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 211
+FILE: catalog/controller/product/search.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 217
+FILE: catalog/controller/product/compare.php
+CODE: $image = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_compare_width'), $this->config->get('config_image_compare_height'));
+LINE: 77
+FILE: catalog/controller/product/category.php
+CODE: $data['thumb'] = $this->model_tool_image->resize($category_info['image'], $this->config->get('config_image_category_width'), $this->config->get('config_image_category_height'));
+LINE: 138
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 177
+LINE: 236
+FILE: catalog/controller/common/cart.php
+CODE: $image = $this->model_tool_image->resize($product['image'], $this->config->get('config_image_cart_width'), $this->config->get('config_image_cart_height'));
+LINE: 57
+FILE: catalog/controller/account/wishlist.php
+CODE: $image = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_wishlist_width'), $this->config->get('config_image_wishlist_height'));
+LINE: 77
+FILE: catalog/controller/payment/pp_express.php
+CODE: $image = $this->model_tool_image->resize($product['image'], $this->config->get('config_image_cart_width'), $this->config->get('config_image_cart_height'));
+LINE: 461
+FILE: catalog/controller/checkout/cart.php
+CODE: $image = $this->model_tool_image->resize($product['image'], $this->config->get('config_image_cart_width'), $this->config->get('config_image_cart_height'));
+LINE: 91
+FILE: catalog/model/tool/image.php
+CODE: class ModelToolImage extends Model {
+LINE: 8
+CODE: }
+LINE: 55
+----------------------------------------------------------------
+MOD: Opencart Back To Top
+FILE: catalog/controller/common/footer.php
+CODE: $this->load->language('common/footer');
+LINE: 10
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 104
+----------------------------------------------------------------
+2016-05-14 13:52:26 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: Modification watermark module for opencart
+FILE: catalog/controller/module/featured.php
+CODE: $image = $this->model_tool_image->resize($product_info['image'], $setting['width'], $setting['height']);
+LINE: 31
+FILE: catalog/controller/module/bestseller.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 24
+FILE: catalog/controller/module/ebay_listing.php
+CODE: $image = $this->model_openbay_ebay_product->resize($product['pictures'][0], $this->config->get('ebay_listing_width'), $this->config->get('ebay_listing_height'));
+LINE: 23
+FILE: catalog/controller/module/carousel.php
+CODE: 'image' => $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height'])
+LINE: 20
+FILE: catalog/controller/module/latest.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 31
+FILE: catalog/controller/module/special.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 31
+FILE: catalog/controller/module/slideshow.php
+CODE: 'image' => $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height'])
+LINE: 20
+FILE: catalog/controller/module/banner.php
+CODE: 'image' => $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height'])
+LINE: 21
+FILE: catalog/controller/feed/google_sitemap.php
+CODE: $output .= '<image:loc>' . $this->model_tool_image->resize($product['image'], $this->config->get('config_image_popup_width'), $this->config->get('config_image_popup_height')) . '</image:loc>';
+LINE: 19
+FILE: catalog/controller/feed/google_base.php
+CODE: $output .= '<g:image_link>' . $this->model_tool_image->resize($product['image'], 500, 500) . '</g:image_link>';
+LINE: 40
+FILE: catalog/controller/product/product.php
+CODE: $data['popup'] = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_popup_width'), $this->config->get('config_image_popup_height'));
+LINE: 294
+CODE: $data['thumb'] = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_thumb_width'), $this->config->get('config_image_thumb_height'));
+LINE: 300
+CODE: 'popup' => $this->model_tool_image->resize($result['image'], $this->config->get('config_image_popup_width'), $this->config->get('config_image_popup_height')),
+LINE: 311
+CODE: 'thumb' => $this->model_tool_image->resize($result['image'], $this->config->get('config_image_additional_width'), $this->config->get('config_image_additional_height'))
+LINE: 312
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_related_width'), $this->config->get('config_image_related_height'));
+LINE: 418
+FILE: catalog/controller/product/special.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 102
+FILE: catalog/controller/product/manufacturer.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 211
+FILE: catalog/controller/product/search.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 217
+FILE: catalog/controller/product/compare.php
+CODE: $image = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_compare_width'), $this->config->get('config_image_compare_height'));
+LINE: 77
+FILE: catalog/controller/product/category.php
+CODE: $data['thumb'] = $this->model_tool_image->resize($category_info['image'], $this->config->get('config_image_category_width'), $this->config->get('config_image_category_height'));
+LINE: 138
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 177
+LINE: 236
+FILE: catalog/controller/common/cart.php
+CODE: $image = $this->model_tool_image->resize($product['image'], $this->config->get('config_image_cart_width'), $this->config->get('config_image_cart_height'));
+LINE: 57
+FILE: catalog/controller/account/wishlist.php
+CODE: $image = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_wishlist_width'), $this->config->get('config_image_wishlist_height'));
+LINE: 77
+FILE: catalog/controller/payment/pp_express.php
+CODE: $image = $this->model_tool_image->resize($product['image'], $this->config->get('config_image_cart_width'), $this->config->get('config_image_cart_height'));
+LINE: 461
+FILE: catalog/controller/checkout/cart.php
+CODE: $image = $this->model_tool_image->resize($product['image'], $this->config->get('config_image_cart_width'), $this->config->get('config_image_cart_height'));
+LINE: 91
+FILE: catalog/model/tool/image.php
+CODE: class ModelToolImage extends Model {
+LINE: 8
+CODE: }
+LINE: 55
+----------------------------------------------------------------
+MOD: Opencart Back To Top
+FILE: catalog/controller/common/footer.php
+CODE: $this->load->language('common/footer');
+LINE: 10
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 104
+----------------------------------------------------------------
+2016-05-14 13:57:41 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: Modification watermark module for opencart
+FILE: catalog/controller/module/featured.php
+CODE: $image = $this->model_tool_image->resize($product_info['image'], $setting['width'], $setting['height']);
+LINE: 31
+FILE: catalog/controller/module/bestseller.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 24
+FILE: catalog/controller/module/ebay_listing.php
+CODE: $image = $this->model_openbay_ebay_product->resize($product['pictures'][0], $this->config->get('ebay_listing_width'), $this->config->get('ebay_listing_height'));
+LINE: 23
+FILE: catalog/controller/module/carousel.php
+CODE: 'image' => $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height'])
+LINE: 20
+FILE: catalog/controller/module/latest.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 31
+FILE: catalog/controller/module/special.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 31
+FILE: catalog/controller/module/slideshow.php
+CODE: 'image' => $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height'])
+LINE: 20
+FILE: catalog/controller/module/banner.php
+CODE: 'image' => $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height'])
+LINE: 21
+FILE: catalog/controller/feed/google_sitemap.php
+CODE: $output .= '<image:loc>' . $this->model_tool_image->resize($product['image'], $this->config->get('config_image_popup_width'), $this->config->get('config_image_popup_height')) . '</image:loc>';
+LINE: 19
+FILE: catalog/controller/feed/google_base.php
+CODE: $output .= '<g:image_link>' . $this->model_tool_image->resize($product['image'], 500, 500) . '</g:image_link>';
+LINE: 40
+FILE: catalog/controller/product/product.php
+CODE: $data['popup'] = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_popup_width'), $this->config->get('config_image_popup_height'));
+LINE: 294
+CODE: $data['thumb'] = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_thumb_width'), $this->config->get('config_image_thumb_height'));
+LINE: 300
+CODE: 'popup' => $this->model_tool_image->resize($result['image'], $this->config->get('config_image_popup_width'), $this->config->get('config_image_popup_height')),
+LINE: 311
+CODE: 'thumb' => $this->model_tool_image->resize($result['image'], $this->config->get('config_image_additional_width'), $this->config->get('config_image_additional_height'))
+LINE: 312
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_related_width'), $this->config->get('config_image_related_height'));
+LINE: 418
+FILE: catalog/controller/product/special.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 102
+FILE: catalog/controller/product/manufacturer.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 211
+FILE: catalog/controller/product/search.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 217
+FILE: catalog/controller/product/compare.php
+CODE: $image = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_compare_width'), $this->config->get('config_image_compare_height'));
+LINE: 77
+FILE: catalog/controller/product/category.php
+CODE: $data['thumb'] = $this->model_tool_image->resize($category_info['image'], $this->config->get('config_image_category_width'), $this->config->get('config_image_category_height'));
+LINE: 138
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 177
+LINE: 236
+FILE: catalog/controller/common/cart.php
+CODE: $image = $this->model_tool_image->resize($product['image'], $this->config->get('config_image_cart_width'), $this->config->get('config_image_cart_height'));
+LINE: 57
+FILE: catalog/controller/account/wishlist.php
+CODE: $image = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_wishlist_width'), $this->config->get('config_image_wishlist_height'));
+LINE: 77
+FILE: catalog/controller/payment/pp_express.php
+CODE: $image = $this->model_tool_image->resize($product['image'], $this->config->get('config_image_cart_width'), $this->config->get('config_image_cart_height'));
+LINE: 461
+FILE: catalog/controller/checkout/cart.php
+CODE: $image = $this->model_tool_image->resize($product['image'], $this->config->get('config_image_cart_width'), $this->config->get('config_image_cart_height'));
+LINE: 91
+FILE: catalog/model/tool/image.php
+CODE: class ModelToolImage extends Model {
+LINE: 8
+CODE: }
+LINE: 55
+----------------------------------------------------------------
+MOD: Opencart Back To Top
+FILE: catalog/controller/common/footer.php
+CODE: $this->load->language('common/footer');
+LINE: 10
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 104
+----------------------------------------------------------------
+2016-05-14 14:00:12 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: Modification watermark module for opencart
+FILE: catalog/controller/module/featured.php
+CODE: $image = $this->model_tool_image->resize($product_info['image'], $setting['width'], $setting['height']);
+LINE: 31
+FILE: catalog/controller/module/bestseller.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 24
+FILE: catalog/controller/module/ebay_listing.php
+CODE: $image = $this->model_openbay_ebay_product->resize($product['pictures'][0], $this->config->get('ebay_listing_width'), $this->config->get('ebay_listing_height'));
+LINE: 23
+FILE: catalog/controller/module/carousel.php
+CODE: 'image' => $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height'])
+LINE: 20
+FILE: catalog/controller/module/latest.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 31
+FILE: catalog/controller/module/special.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height']);
+LINE: 31
+FILE: catalog/controller/module/slideshow.php
+CODE: 'image' => $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height'])
+LINE: 20
+FILE: catalog/controller/module/banner.php
+CODE: 'image' => $this->model_tool_image->resize($result['image'], $setting['width'], $setting['height'])
+LINE: 21
+FILE: catalog/controller/feed/google_sitemap.php
+CODE: $output .= '<image:loc>' . $this->model_tool_image->resize($product['image'], $this->config->get('config_image_popup_width'), $this->config->get('config_image_popup_height')) . '</image:loc>';
+LINE: 19
+FILE: catalog/controller/feed/google_base.php
+CODE: $output .= '<g:image_link>' . $this->model_tool_image->resize($product['image'], 500, 500) . '</g:image_link>';
+LINE: 40
+FILE: catalog/controller/product/product.php
+CODE: $data['popup'] = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_popup_width'), $this->config->get('config_image_popup_height'));
+LINE: 294
+CODE: $data['thumb'] = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_thumb_width'), $this->config->get('config_image_thumb_height'));
+LINE: 300
+CODE: 'popup' => $this->model_tool_image->resize($result['image'], $this->config->get('config_image_popup_width'), $this->config->get('config_image_popup_height')),
+LINE: 311
+CODE: 'thumb' => $this->model_tool_image->resize($result['image'], $this->config->get('config_image_additional_width'), $this->config->get('config_image_additional_height'))
+LINE: 312
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_related_width'), $this->config->get('config_image_related_height'));
+LINE: 418
+FILE: catalog/controller/product/special.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 102
+FILE: catalog/controller/product/manufacturer.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 211
+FILE: catalog/controller/product/search.php
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 217
+FILE: catalog/controller/product/compare.php
+CODE: $image = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_compare_width'), $this->config->get('config_image_compare_height'));
+LINE: 77
+FILE: catalog/controller/product/category.php
+CODE: $data['thumb'] = $this->model_tool_image->resize($category_info['image'], $this->config->get('config_image_category_width'), $this->config->get('config_image_category_height'));
+LINE: 138
+CODE: $image = $this->model_tool_image->resize($result['image'], $this->config->get('config_image_product_width'), $this->config->get('config_image_product_height'));
+LINE: 177
+LINE: 236
+FILE: catalog/controller/common/cart.php
+CODE: $image = $this->model_tool_image->resize($product['image'], $this->config->get('config_image_cart_width'), $this->config->get('config_image_cart_height'));
+LINE: 57
+FILE: catalog/controller/account/wishlist.php
+CODE: $image = $this->model_tool_image->resize($product_info['image'], $this->config->get('config_image_wishlist_width'), $this->config->get('config_image_wishlist_height'));
+LINE: 77
+FILE: catalog/controller/payment/pp_express.php
+CODE: $image = $this->model_tool_image->resize($product['image'], $this->config->get('config_image_cart_width'), $this->config->get('config_image_cart_height'));
+LINE: 461
+FILE: catalog/controller/checkout/cart.php
+CODE: $image = $this->model_tool_image->resize($product['image'], $this->config->get('config_image_cart_width'), $this->config->get('config_image_cart_height'));
+LINE: 91
+FILE: catalog/model/tool/image.php
+CODE: class ModelToolImage extends Model {
+LINE: 8
+CODE: }
+LINE: 55
+----------------------------------------------------------------
+MOD: Opencart Back To Top
+FILE: catalog/controller/common/footer.php
+CODE: $this->load->language('common/footer');
+LINE: 10
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 104
+----------------------------------------------------------------
+2016-05-14 14:01:30 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: Opencart Back To Top
+FILE: catalog/controller/common/footer.php
+CODE: $this->load->language('common/footer');
+LINE: 10
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 104
+----------------------------------------------------------------
+2016-05-14 14:01:32 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: Opencart Back To Top
+FILE: catalog/controller/common/footer.php
+CODE: $this->load->language('common/footer');
+LINE: 10
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 104
+----------------------------------------------------------------
+2016-05-14 14:14:45 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: Opencart Back To Top
+FILE: catalog/controller/common/footer.php
+CODE: $this->load->language('common/footer');
+LINE: 10
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 104
+----------------------------------------------------------------
+2016-05-14 15:44:00 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Local copy OCMOD by iSenseLabs
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'],
+LINE: 132
+CODE: public function unzip() {
+LINE: 293
+----------------------------------------------------------------
+MOD: Opencart Back To Top
+FILE: catalog/controller/common/footer.php
+CODE: $this->load->language('common/footer');
+LINE: 10
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 104
+----------------------------------------------------------------
+2016-05-16 16:07:16 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Extension Installation Upload
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'], 'SSL')),
+LINE: 132
+CODE: public function unzip() {
+LINE: 282
+----------------------------------------------------------------
+2016-05-16 16:07:16 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Extension Installation Upload
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'], 'SSL')),
+LINE: 132
+CODE: public function unzip() {
+LINE: 282
+----------------------------------------------------------------
+2016-05-16 16:07:17 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Extension Installation Upload
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'], 'SSL')),
+LINE: 132
+CODE: public function unzip() {
+LINE: 282
+----------------------------------------------------------------
+2016-05-16 16:14:25 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Extension Installation Upload
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'], 'SSL')),
+LINE: 132
+CODE: public function unzip() {
+LINE: 282
+----------------------------------------------------------------
+2016-05-16 16:14:26 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Extension Installation Upload
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'], 'SSL')),
+LINE: 132
+CODE: public function unzip() {
+LINE: 282
+----------------------------------------------------------------
+2016-05-16 16:14:27 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Extension Installation Upload
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'], 'SSL')),
+LINE: 132
+CODE: public function unzip() {
+LINE: 282
+----------------------------------------------------------------
+2016-05-16 16:15:36 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Extension Installation Upload
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'], 'SSL')),
+LINE: 132
+CODE: public function unzip() {
+LINE: 282
+----------------------------------------------------------------
+2016-05-16 16:15:53 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Extension Installation Upload
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'], 'SSL')),
+LINE: 132
+CODE: public function unzip() {
+LINE: 282
+----------------------------------------------------------------
+MOD: Opencart Back To Top
+FILE: catalog/controller/common/footer.php
+CODE: $this->load->language('common/footer');
+LINE: 10
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 104
+----------------------------------------------------------------
+2016-05-16 17:10:49 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Extension Installation Upload
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'], 'SSL')),
+LINE: 132
+CODE: public function unzip() {
+LINE: 282
+----------------------------------------------------------------
+MOD: Opencart Back To Top
+FILE: catalog/controller/common/footer.php
+CODE: $this->load->language('common/footer');
+LINE: 10
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 104
+----------------------------------------------------------------
+2016-05-16 17:25:28 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Extension Installation Upload
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'], 'SSL')),
+LINE: 132
+CODE: public function unzip() {
+LINE: 282
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Opencart Back To Top
+FILE: catalog/controller/common/footer.php
+CODE: $this->load->language('common/footer');
+LINE: 10
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 104
+----------------------------------------------------------------
+2016-05-16 17:25:29 - MOD: Modification Default
+FILE: system/engine/action.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 39
+FILE: system/engine/loader.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 20
+LINE: 59
+LINE: 80
+LINE: 99
+FILE: system/library/config.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 23
+FILE: system/library/language.php
+REGEX: ~(require|include)(_once)?\(([^)]+)~
+LINE: 25
+LINE: 31
+----------------------------------------------------------------
+MOD: Fix Extension Installation Upload
+FILE: admin/controller/extension/installer.php
+CODE: 'url'  => str_replace('&amp;', '&', $this->url->link('extension/installer/ftp', 'token=' . $this->session->data['token'], 'SSL')),
+LINE: 132
+CODE: public function unzip() {
+LINE: 282
+----------------------------------------------------------------
+MOD: Fix Filter Opencart 2.x
+FILE: catalog/model/catalog/product.php
+CODE: $sql .= " AND pf.filter_id IN (" . implode(',', $implode) . ")";
+LINE: 130
+LINE: 507
+CODE: $sql .= " AND p.manufacturer_id = '" . (int)$data['filter_manufacturer_id'] . "'";
+LINE: 187
+LINE: 574
+----------------------------------------------------------------
+MOD: Opencart Back To Top
+FILE: catalog/controller/common/footer.php
+CODE: $this->load->language('common/footer');
+LINE: 10
+FILE: catalog/view/theme/default/template/common/footer.tpl
+CODE: </body></html>
+LINE: 104
+----------------------------------------------------------------

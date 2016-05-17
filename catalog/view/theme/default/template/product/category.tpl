@@ -82,23 +82,67 @@
 
 <!-- end text feature -->
 
-         <?php if ($categories) { ?>
-<!--      <h3><?php echo $text_refine; ?></h3>-->        
-            <div class="row" style="opacity: 1; display: block;margin-bottom: 0px;">
-                <?php foreach ($categories as $category) { ?>
-                    <?php if ($category['thumb']) { ?>
-                        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
-                            <div class="product-thumb transition divCategoryList">
-                                <div class="image"><a href="<?php echo $category['href']; ?>"><img src="<?php echo $category['thumb']; ?>" alt="<?php echo $heading_title; ?>" title="<?php echo $heading_title; ?>" class="img-responsive" /></a></div>
-                                <div class="caption imageCategoryList">
-                                    <h3><a style="text-decoration: none" href="<?php echo $category['href']; ?>"><?php echo $category['name']; ?></a></h3>
-                                </div> 
+
+
+<!--       Категорії товарів, де остання категорія - усі товори  -->
+        
+      <?php if ($categories) { ?>
+        
+<!--      <h3><?php echo $text_refine; ?></h3>-->
+<div class="row" style="opacity: 1; display: block;margin-bottom: 0px;">
+         <?php for ( $i = 0 ; $i < count($categories)-1; $i++) { ?>
+                <?php if ($categories[$i]['thumb']) {
+                    if ($i != (count($categories) -1)){ ?>
+                    
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            <div class="product-thumb transition divCategoryList mdvd-category-box">
+                                  
+                                <div class="image-style">
+                                    <div class="container">
+                                            <div class="carousel-caption">
+                                              <h1><a style="text-decoration: none" href="<?php echo $categories[$i]['href']; ?>"><?php echo $categories[$i]['name']; ?></a></h1>
+                                            </div>
+                                        </div>
+                                    <a href="<?php echo $categories[$i]['href']; ?>"><img src="<?php echo $categories[$i]['thumb']; ?>" alt="<?php echo $heading_title; ?>" title="<?php echo $heading_title; ?>" class="img-responsive" /></a>
+                                </div>
+
+                                   <?php if ($categories[$i]['desc']) { ?>
+                                     <div class="figcaption">
+                                           <button class="btn btn-primary btn-style-wall showPost" ><?php echo $show_full_text; ?></button>
+                                         <div class="textPost">
+                                           <?php echo html_entity_decode($categories[$i]['desc'],ENT_QUOTES | ENT_IGNORE, "UTF-8"); ?>  
+                                         </div>
+                                     </div>
+                                   <?php } ?>
                             </div>
                         </div>
+
                     <?php } ?>
+                 <?php } ?>
+        <?php } ?>
+       </div>
+        
+            <?php for ( $i = 0 ; $i < count($categories); $i++) { ?>
+                <?php if ($i == (count($categories) -1)) { ?>
+                     <div class="mdvd-all-products buttons">
+                            <h3><a href="<?php echo $categories[$i]['href'];?>" class="btn btn-primary"><?php echo $categories[$i]['name']; ?></a></h3>
+                     </div>
                 <?php } ?>
+            <?php } ?>  
+        
+<!--       Modal window created 14.05.2016 23.00-->
+        <div style="display: none;">
+            <div class="box-modal" id="exampleModal">
+                <div class="box-modal_close arcticmodal-close">закрыть</div>
             </div>
+        </div>
+        
+<!--        end modal window-->  
        <?php } ?>
+        
+<!--        Кінець категорії товарів-->
+
+
 
 
 
@@ -252,6 +296,37 @@
 
 </div>
 <?php echo $footer; ?>
+
+
+<!-- arcticModal -->
+<script src="catalog/view/javascript/jquery.arcticmodal-0.3.min.js"></script>
+<link rel="stylesheet" href="catalog/view/theme/default/stylesheet/jquery.arcticmodal-0.3.css">
+
+<!--Скріпт до откритие тексту-->
+<script type="text/javascript">
+    
+$(document).ready(function (){
+        
+    $('.long-image-wall').hover (function(){
+        $(this).find(".show-short-desc-style").removeClass("hideRating").addClass("showRating");
+    },
+    function(){
+        $(this).find(".show-short-desc-style").removeClass("showRating").addClass("hideRating");
+    }
+    );
+    
+    $(".showPost").click(function(){
+            var c = $('<div class="box-modal" />');
+            c.html($(this).next().html());
+            c.prepend('<div class="box-modal_close arcticmodal-close">X</div>');
+            $.arcticmodal({
+                content: c
+            });
+    })
+
+})
+</script>
+<!---->
 
 <script> 
 
